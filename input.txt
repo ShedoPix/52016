@@ -1,8 +1,1 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
-
-
-
-
+cuando ventilador es encendido entonces ajustar velocidad a 50;
