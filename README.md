@@ -3,7 +3,9 @@ INSTALACIÓN
 Para instalar este proyecto se debe clonar el repositorio ejecutando en una ventana de comandos (CMD, POWERSHELL o terminal en Linux) los siguientes comandos en orden:
 
 git clone https://github.com/ShedoPix/52016.git
+
 cd 52016
+
 code .
 
 CÓMO UTILIZAR
