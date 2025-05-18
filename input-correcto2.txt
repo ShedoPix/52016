@@ -1,0 +1,2 @@
+cuando temperatura menor que 18 entonces activar calefaccion;
+cuando humedad mayor que 70 entonces activar deshumidificador;

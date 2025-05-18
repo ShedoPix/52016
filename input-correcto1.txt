@@ -1,0 +1,1 @@
+cuando luz es apagado entonces ajustar brillo a 50;

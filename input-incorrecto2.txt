@@ -1,0 +1,1 @@
+cuando interruptor es encendido entonces activr mecanismo

@@ -1,0 +1,1 @@
+cuando ventilador es apagado ajustar velocidad a 0;
