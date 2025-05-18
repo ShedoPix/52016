@@ -34,6 +34,7 @@ code .
 ![image](https://github.com/user-attachments/assets/9b0a3e07-c08d-4ab6-ae5d-dc76220ee434)
 
 4. Para realizar el análisis léxico, el análisis sintáctico, crear la tabla de tokens y convertir a código en JavaScript el input dado, se debe ejecutar en la terminal de Visual Studio Code el siguiente comando:
+
     ```
     node main.js
     ```
