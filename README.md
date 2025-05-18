@@ -10,13 +10,15 @@ code .
 
 CÓMO UTILIZAR
 
-1. Abrir la carpeta "ssl-antlr-parcial-analizador" en Visual Studio Code
+1. Tener abierto "ssl-antlr-parcial-analizador" en Visual Studio Code
 
-![image](https://github.com/user-attachments/assets/0a0a72c7-d4b6-42fe-9396-55754a9f36b0)
+![image](https://github.com/user-attachments/assets/c6fd2868-1110-4de1-b203-9d340c0892b4)
 
 3. Copiar el texto de alguno de los ejemplos "input-correcto" o "input-incorrecto" (O alternativamente escribir su propio input) y pegarlo dentro del archivo input.txt
 
-![image](https://github.com/user-attachments/assets/e0430268-7db2-473f-a9a3-defb157df558)
+![image](https://github.com/user-attachments/assets/064a7264-fcab-43a0-9b38-2b8e34dab5ba)
+
+![image](https://github.com/user-attachments/assets/9b0a3e07-c08d-4ab6-ae5d-dc76220ee434)
 
 4. Para realizar el análisis léxico, el análisis sintáctico, crear la tabla de tokens y convertir a código en JavaScript el input dado, se debe ejecutar en la terminal de Visual Studio Code el siguiente comando:
 
