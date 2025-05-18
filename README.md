@@ -16,8 +16,12 @@ CÓMO UTILIZAR
 
 ![image](https://github.com/user-attachments/assets/26cfef9e-27aa-45d7-bac4-d3c3608498e5)
 
-4. Para ver el árbol de análisis sintáctico del input dado, presionar F5
+4. Para realizar el análisis léxico, el análisis sintáctico, crear la tabla de tokens y convertir a código en JavaScript el input dado, primero se debe ejecutar en la terminal de Visual Studio Code el siguiente comando:
+cd ssl-antlr-parcial-analizador
+Luego, para realizar el análisis, sólo se debe ejecutar el comando:
+node main.js
 
-5. Para realizar el análisis léxico, el análisis sintáctico, crear la tabla de tokens y convertir a código en JavaScript el input dado, escribir en la terminal de Visual Studio Code el siguiente comando: node main.js
+![image](https://github.com/user-attachments/assets/c9b65b16-e7c9-41b7-807f-3a86193573b2)
 
-![image](https://github.com/user-attachments/assets/1355e603-1ed4-4969-825d-135a670ecbed)
+  
+5. Para ver el árbol de análisis sintáctico del input dado, presionar F5
