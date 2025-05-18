@@ -16,7 +16,7 @@ CÓMO UTILIZAR
 
 3. Copiar el texto de alguno de los ejemplos "input-correcto" o "input-incorrecto" (O alternativamente escribir su propio input) y pegarlo dentro del archivo input.txt
 
-![image](https://github.com/user-attachments/assets/26cfef9e-27aa-45d7-bac4-d3c3608498e5)
+![image](https://github.com/user-attachments/assets/e0430268-7db2-473f-a9a3-defb157df558)
 
 4. Para realizar el análisis léxico, el análisis sintáctico, crear la tabla de tokens y convertir a código en JavaScript el input dado, primero se debe ejecutar en la terminal de Visual Studio Code el siguiente comando:
 
