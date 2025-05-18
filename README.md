@@ -25,11 +25,11 @@ code .
    
 ![image](https://github.com/user-attachments/assets/064a7264-fcab-43a0-9b38-2b8e34dab5ba)
 
-   Luego copiamos el texto del archivo
+      Luego copiamos el texto del archivo
 
 ![image](https://github.com/user-attachments/assets/73505867-1b9a-42f4-a8e0-d5be78a54cc8)
 
-   Por último lo pegamos en el archivo input.txt dentro del proyecto
+      Por último lo pegamos en el archivo input.txt dentro del proyecto
 
 ![image](https://github.com/user-attachments/assets/9b0a3e07-c08d-4ab6-ae5d-dc76220ee434)
 
