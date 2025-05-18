@@ -1,8 +1,11 @@
 INSTALACIÓN
+
 Para instalar este proyecto se debe clonar el repositorio ejecutando en una ventana de comandos (CMD, POWERSHELL o terminal en Linux) el siguiente comando:
+
 git clone https://github.com/ShedoPix/52016.git
 
 CÓMO UTILIZAR
+
 1. Abrir la carpeta "ssl-antlr-parcial-analizador" en Visual Studio Code
 
 ![image](https://github.com/user-attachments/assets/36511716-274c-4f42-8569-d9a9617c55fb)
